@@ -1,5 +1,15 @@
 # 2. Historical Development
 
+## Origins and Early Evolution (1990s–2006)
+
+Before the smartphone revolution, mobile computing was defined by business utility and physical keyboards. Key milestones established the foundation for modern devices:
+
+-   **1994:** IBM Simon Personal Communicator launched as the first device combining a touchscreen, email, and cellular capabilities, establishing the "smartphone" concept decades ahead of its time.
+-   **2002:** BlackBerry 5810 introduced push email and QWERTY keyboards, dominating the enterprise market and proving mobile data had commercial value.
+-   **2004:** Symbian OS became the world's most popular smartphone platform, but its fragmented ecosystem and poor developer tools created a "walled garden" that stifled innovation.
+
+These early innovations proved demand existed, but lacked the unified hardware-software integration that would later define the post-2007 era.
+
 # Technological Evolution (2007–2016)
 
 The speed of technological change during this period was rapid. The table below, based on data from Han and Cho (2016), illustrates the dramatic increase in smartphone performance benchmarks that competitors achieved while Nokia lagged behind:

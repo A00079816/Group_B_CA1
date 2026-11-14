@@ -1,4 +1,4 @@
-# Ethical Reflecion & Improvements
+# Ethical Reflection & Improvements
 ## Critical evaluation and solutions
 
 
@@ -12,7 +12,9 @@ When mobile phones with digital cameras started to release to the public in late
 Today we still see bans on smartphones in places such as the Dáil who completely prohibits the use of smartphone by TDs. In Ireland (and many other countries) there is a ban on the use of mobile phones in primary schools
 
 ### How the switch improved peoples everyday lives.
-
+Smartphones have improved our lives in vast ways. We can make calls and text from nearly anywhere (depending on signals). This has kept families and friends connected around the world when they go on holidays or move away. 
+The ability for mobile phones to show us our exact location using GPS has made traveling to place we haven't been to before easier and, has made trips to places you know more efficient by giving you the fastest routes while avoiding traffic. It could also be said that it has saved lives of hikers by showing their last know position if they got lost.
+Being able to take pictures instantly using a smartphone has made it easier to create memories with family and friends that will last a lifetime (if correctly backed up).
 
 
 

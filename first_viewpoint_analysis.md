@@ -10,8 +10,9 @@ This section analyzes how mobile devices transformed human interaction and daily
 *   **Always-On Culture:** By the late 2000s, the expectation of immediate response began to blur the lines between private time and social availability.
 
 ### 2. Impact on Education and Youth
-*   **Digital Natives:** The 2000s saw the rise of a generation that grew up with mobile connectivity, fundamentally changing how young people learn and socialize.
-*   **Access to Information:** Mobile devices democratized information, allowing students in remote areas to access knowledge previously confined to libraries.
+Much like other career sectors, education has sought many major improvements due to mobile devices being accessible to students and teachers. Schools now integrating the internet and computer access has allowed for improved accessibility to information where in the past, gathering information was restricted to books and by location. One such impact smart phones have provided is breaking that restriction of location. Smart devices offer education to students through distant learning without restricting them to classrooms, while delivering quality education (Sarwar and Rahim Soomro, 2013). This advancement can allow teachers to deliver education to students facing absences due to problems with health or illness. With improved collaboration using smart devices can prevent students from falling behind (Sarwar and Rahim Soomro, 2013).    
+
+Despite the many benefits, education with smart devices can deliver to institutional systems. Many schools have reported issues of the misuse of mobile devices in school, such as; device usage for malicious purposes in exam settings, phones distracting students during lectures, devices used to disrupt the learning of other students, etc. Such usage allows for students to illegally access the answers or utilizing AI, granting these students an unfair advantage during an examination (Ataro, Madara and Simiuy Sitati, 2016).	
 
 ### 3. Cultural and Global Connection
 *   **Bridging Distances:** Mobile phones allowed families and communities separated by migration to maintain close bonds through affordable communication.

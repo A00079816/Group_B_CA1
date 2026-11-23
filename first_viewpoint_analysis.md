@@ -1,7 +1,7 @@
 # 1. First Viewpoint Analysis: Social Impact of Mobile Devices
 
 ## Introduction: How Phones Changed Society (1980–2009)
-This section analyzes how mobile devices transformed human interaction and daily life. Rather than focusing on corporate strategy, we look at how the evolution from basic Nokia phones to smartphones reshaped culture, education, and personal relationships across the globe.
+The introduction of smart devices has revolutionized the way people communicate with one another and has had a massive impact on society. This section discusses the evolution of mobile devices to smart devices from Nokia, and how it reshaped culture, education, and global communication.  
 
 ## Key Social Shifts
 

@@ -15,7 +15,8 @@ Much like other career sectors, education has sought many major improvements due
 Despite the many benefits, education with smart devices can deliver to institutional systems. Many schools have reported issues of the misuse of mobile devices in school, such as; device usage for malicious purposes in exam settings, phones distracting students during lectures, devices used to disrupt the learning of other students, etc. Such usage allows for students to illegally access the answers or utilizing AI, granting these students an unfair advantage during an examination (Ataro, Madara and Simiuy Sitati, 2016).	
 
 ### 3. Cultural and Global Connection
-*   **Bridging Distances:** Mobile phones allowed families and communities separated by migration to maintain close bonds through affordable communication.
+The growing use of mobile devices since the 1980's has brought about improved global communication, especially for countries with a largely migrant society and culture. For many families living in these countries, working abroad grants better career opportunities though at the social cost of communication with their families (Madianou and Miller, 2011). With this already prevalent culture in countries such as the Philippines, families have found the use of mobile phones, and internet access integral to remaining in contacting or parenting from long distances (Madianou and Miller, 2011).   
+
 *   **Social Movements:** By the late 2000s, mobile devices began to play a role in organizing social movements and spreading awareness globally.
 
 ## Timeline of Social Evolution (1980–2009)

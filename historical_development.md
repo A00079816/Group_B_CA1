@@ -5,7 +5,7 @@ The transition from feature phones to smartphones was not instantaneous; it was 
 
 -   **1987–1990s: Establishing Digital Standards:** Nokia’s Mobira Cityman (1987) and subsequent GSM devices pioneered digital 2G networks, enabling reliable SMS and voice clarity. This era defined mobile phones as durable, single-purpose communication tools rather than computing platforms (Nokia 1996).
 -   **1996: The First Smartphone Prototype:** The Nokia 9000 Communicator introduced a clamshell design with a QWERTY keyboard and horizontal screen for email and web browsing. Despite being technologically ahead of its time, it remained a niche business tool due to high costs and limited software ecosystems (Mobile Phone Museum 2024).
--   **2003–2006: Hardware Proliferation vs. Software Stagnation:** While hardware evolved rapidly—with devices like the Nokia N95 offering GPS and 5MP cameras—operating systems like Symbian remained fragmented and stylus-dependent. BlackBerry dominated enterprise mobility through push-email, but consumer devices lacked a unified app ecosystem, creating a "software gap" that Apple would later exploit (Nield 2026).
+-   **2003–2006: Hardware Proliferation vs. Software Stagnation:** While hardware evolved rapidly with devices like the Nokia N95 offering GPS and 5MP cameras operating systems like Symbian remained fragmented and stylus dependent. BlackBerry dominated enterprise mobility through push email, but consumer devices lacked a unified app ecosystem, creating a "software gap" that Apple would later exploit (Nield 2026).
 
 These early innovations proved market demand for mobile data existed, but they lacked the seamless hardware-software integration that would define the post 2007 smartphone era.
 

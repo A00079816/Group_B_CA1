@@ -25,6 +25,7 @@ The speed of technological change during this period was rapid. The table below,
 While hardware evolved, competitive advantage increasingly shifted toward intellectual property. Yang (2022) has described that patent based strategies became a primary differentiator, explaining why firms like Nokia struggled to maintain market dominance despite their historical engineering strength. In the illustration below, I tried to visualise some data showing patent accumulation and market share that determined the "curse of agility".
 
 ![The Shift from Hardware to Intellectual Property (2007-2016)](images/patent_market_shift_2007_2016.jpeg)
+
 Figure 1: Correlation between SEP holdings and market dominance, illustrating Nokia's strategic lag (Yang, 2022; Bouwman et al., 2014).
 
 ## Cultural Adaptation of Mobile Technology

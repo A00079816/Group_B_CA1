@@ -39,4 +39,5 @@ The social impact varied by region. In developed nations, phones became extensio
 *   **Islam, R., Islam, M. and Mazumder, T. (2010).** Mobile application and its global impact. *International Journal of Engineering & Science*.
 *   **Hartmann, M., Rössler, P. and Höflich, J. (2008).** After the Mobile Phone?: Social Changes and the Development of Mobile Communication.
 *   **Glotz, P., Bertschi, S. and Locke, C. (n.d.).** *The Thumb Culture: How the Mobile Phone is Changing Our Lives.* (Repositorium für die Medienwissenschaft).
-*   **Ataro, E., Madara, D.S. and Simiuy Sitati (2016).** Design and testing of mobile phone detectors. Innovative Systems Design and Engineering, 7(9). 
+*   **Ataro, E., Madara, D.S. and Simiuy Sitati (2016).** Design and testing of mobile phone detectors. Innovative Systems Design and Engineering, 7(9).
+*   **Madianou, M. and Miller, D. (2011).** Mobile phone parenting: Reconfiguring relationships between Filipina migrant mothers and their left-behind children. New Media & Society, 13(3), pp.457–470. 

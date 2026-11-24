@@ -18,7 +18,7 @@ The growing use of mobile devices since the 1980's has brought about improved gl
 
 In the late 2000's, mobile devices have been used to organize and plan for social movements and protests. Mobile connectivity has allowed for the gathering of information and sharing to other users (Wong, 2024). This method of communication has allowed information to be shared amongst protesters in countries with restricted freedom of speech and censorship from the government (Wong, 2024). In China, studies show that connective action through digital technologies was a method used during 2018 China's #MeToo campaign against sexual violence and harassment (Zeng, 2020). Transcending in person protests with digital platforms.  
 
-## Timeline of Social Evolution (1980–2009)
+## Timeline of social changes from mobile devices ​ (1980–2009)
 
 The table below illustrates how technological milestones directly correlated with changes in social behavior:
 

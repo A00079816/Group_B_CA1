@@ -1,11 +1,11 @@
 # 1. First Viewpoint Analysis: Social Impact of Mobile Devices
 
-## How Phones Changed Society (1980–2009)
+## How Mobile Phones Changed Society (1980–2009)
 The introduction of smart devices has revolutionized the way people communicate with one another and has had a massive impact on society. This section discusses the evolution of mobile devices to smart devices from Nokia, and how it reshaped culture, education, and global communication.  
 
-## Key Social Shifts
+## The Impact of Mobile Devices in Society 
 
-### 1. Transformation of Communication
+### 1. Change in Communication
 The release of the Nokia 2010 in 1994 supported the use of SMS (Short Message Service), which revolutionized the way people communicate with one another. This allowed users to send short, formed messages to another mobile device user. The Nokia 2010 would become the first Nokia device to be able to send messages to another mobile phone number which would become a feat that reshaped telecommunication. With how compact the device was would stand to be the blueprint that began mobile device communication and culture.   
 
 ### 2. Impact on Education
@@ -13,7 +13,7 @@ Much like other career sectors, education has sought many major improvements due
 
 Despite the many benefits, education with smart devices can deliver to institutional systems. Many schools have reported issues of the misuse of mobile devices in school, such as; device usage for malicious purposes in exam settings, phones distracting students during lectures, devices used to disrupt the learning of other students, etc. Such usage allows for students to illegally access the answers or utilizing AI, granting these students an unfair advantage during an examination (Ataro, Madara and Simiuy Sitati, 2016).	
 
-### 3. Cultural and Global Connection
+### 3. Cultural and Global Connectivity
 The growing use of mobile devices since the 1980's has brought about improved global communication, especially for countries with a largely migrant society and culture. For many families living in these countries, working abroad grants better career opportunities though at the social cost of communication with their families (Madianou and Miller, 2011). With this already prevalent culture in countries such as the Philippines, families have found the use of mobile phones, and internet access integral to remaining in contacting or parenting from long distances (Madianou and Miller, 2011).   
 
 In the late 2000's, mobile devices have been used to organize and plan for social movements and protests. Mobile connectivity has allowed for the gathering of information and sharing to other users (Wong, 2024). This method of communication has allowed information to be shared amongst protesters in countries with restricted freedom of speech and censorship from the government (Wong, 2024). In China, studies show that connective action through digital technologies was a method used during 2018 China's #MeToo campaign against sexual violence and harassment (Zeng, 2020). Transcending in person protests with digital platforms.  

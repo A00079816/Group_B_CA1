@@ -10,7 +10,7 @@ Many experts and mobile phone historians have different views on what was the fi
 
 The smartphone that we are all familiar with today, first appeared in January of 2007. Steve Jobs, from the Apple company, announced the iPhone to a crowd in San Francisco, which combined the music player, iPod, internet capabilities and touch screen. It was soon followed by the iPhone 3G, where users could go onto an online store and download any apps of their choice.
 
-# 2. Historical Development: From Nokia to iPhone
+# Historical Development: From Nokia to iPhone
 
 ## Origins and Early Evolution (1980s–2006)
 The transition from feature phones to smartphones was not instantaneous; it was preceded by decades of innovation that established mobile computing's foundational utility.
@@ -53,7 +53,7 @@ The evolution did not stop in 2016. The last decade has been defined by innovati
 
 This current era represents a fundamental pivot: computing is no longer about accessing information, but about anticipating user needs through contextual AI.
 
-# 1. First Viewpoint Analysis: Social Impact of Mobile Devices
+# First Viewpoint Analysis: Social Impact of Mobile Devices
 
 ## How Mobile Phones Changed Society (1980–2009)
 The introduction of smart devices has revolutionized the way people communicate with one another and has had a massive impact on society. This section discusses the evolution of mobile devices to smart devices from Nokia, and how it reshaped culture, education, and global communication.  

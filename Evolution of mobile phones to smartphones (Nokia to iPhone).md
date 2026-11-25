@@ -108,6 +108,12 @@ Smartphones have improved our lives in vast ways. We can make calls and text fro
 The ability for mobile phones to show us our exact location using GPS has made traveling to place we haven't been to before easier and, has made trips to places you know more efficient by giving you the fastest routes while avoiding traffic. It could also be said that it has saved lives of hikers by showing their last know position if they got lost.
 Being able to take pictures instantly using a smartphone has made it easier to create memories with family and friends that will last a lifetime (if correctly backed up).
 
+Conclusion:
+In conclusion, there have been many technological advancements over the years. 
 
+With each advancement, there have been many improvements, such as changes in communication now being online and education using fewer physical books but also ethical considerations regarding how we use them in our everyday lives, 
+such as how some people use them to photograph others in changing rooms and then post them online. 
+
+As more advancements come in the future, we need to be wary of potential consequences and how they can be mitigated.
 
 References: https://www.bbc.co.uk/bitesize/articles/z62gjfr"

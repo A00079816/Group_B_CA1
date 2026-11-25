@@ -1,8 +1,6 @@
 # Ethical Reflection & Improvements
 ## Critical evaluation and solutions
 
-
-- **Ethical viewpoints on smartphones becoming a part of our everyday lives**.
 * In today's world the vast majority of people have smartphones in their pockets or bag and, spend a decent amount of time using them for work or personal reasons. 
 * Modern phones have high quality cameras that give anyone and everyone the ability record what they see in public and private and in some cases post it online.
 * With the rise of social media, privacy has been thrown out the window even when your not in public spaces, some people still breach your privacy by posting images and videos online. This raises the question should there be harsher laws around what people can do with their phones.

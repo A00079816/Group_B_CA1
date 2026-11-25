@@ -87,4 +87,6 @@ The table below illustrates how technological milestones directly correlated wit
 ## Global Perspectives
 The social impact varied by region. In developed nations, phones became extensions of identity. In developing nations, they often served as critical tools for community organization and accessing basic services, leapfrogging traditional infrastructure.
 
+- Second Viewpoint Analysis
+
 References: https://www.bbc.co.uk/bitesize/articles/z62gjfr"

@@ -80,6 +80,14 @@ The buisness impacts of using Mobile Phones is that a new buisness was made, ano
 
 **The buisness impact:** A whole new market was made when phones became smart phones, it went from maunfacturers of technological devices to eventualy markets that are on the phone such as app eco systesms ad then apps designed to collect and sell data for a profit.
 
+**Phone manufacturers and part sellers**
+There are several giants that make phones and phone parts such as apple and samusung, these two have a 
+
+**Mobile phone accessories**
+
+**Smart phone markets (online)**
+https://www.ansispublications.com/journals/jdbim/jdbim_pdf/2026/jdbim_volume_2_issue_3/JDBIM2026017.pdf
+
 # Ethical Reflection & Improvements
 ## Critical evaluation and solutions
 

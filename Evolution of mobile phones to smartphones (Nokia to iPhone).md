@@ -56,7 +56,7 @@ This current era represents a fundamental pivot: computing is no longer about ac
 # First Viewpoint Analysis: Social Impact of Mobile Devices
 
 ## How Mobile Phones Changed Society (1980–2009)
-The release of the Nokia 2010 in 1994 supported the use of SMS (Short Message Service), which revolutionized the way people communicate with one another. This allowed users to send short, formed messages to another mobile device user. The Nokia 2010 would become the first Nokia device to be able to send messages to another mobile phone number or divert calls to another number which would become a feat that reshaped telecommunication (alin.labau, 1994). With how compact the device was would stand to be the blueprint that began mobile device communication and culture.  
+The introduction of smart devices has revolutionized the way people communicate with one another and has had a massive impact on society. This section discusses the evolution of mobile devices to smart devices from Nokia, and how it reshaped culture, education, and global communication. 
 
 ## The Impact of Mobile Devices in Society 
 

@@ -134,4 +134,10 @@ References:
 -   Ataro, E., Madara, D.S. and Simiuy Sitati (2016). Design and testing of mobile phone detectors. Innovative Systems Design and Engineering, 7(9).
 -   Madianou, M. and Miller, D. (2011). Mobile phone parenting: Reconfiguring relationships between Filipina migrant mothers and their left-behind children. New Media & Society, 13(3), pp.457–470.
 -   Zeng, J. (2020). #MeToo as connective action: A study of the anti-sexual violence and anti-sexual harassment campaign on Chinese social media in 2018. Journalism Practice, 14(2), pp.171–190.
--   Wong, F.H.C. (2024). Not all protests are created equal to be news: Does mobile digital connectivity level the playing field in the hybrid media system? The International Journal of Press/Politics, 31(1), pp.28–49. 
+-   Wong, F.H.C. (2024). Not all protests are created equal to be news: Does mobile digital connectivity level the playing field in the hybrid media system? The International Journal of Press/Politics, 31(1), pp.28–49.
+-    
+-   Dunphy, J.M., Prendergast, G.J. and ScolaÍ, P.Ó. (2014). The emergence of camera phones - exploratory study on ethical and legal issues. Communications of the IIMA, 3(1). doi:10.58729/1941-6687.1009. Available at: [Link](https://scholarworks.lib.csusb.edu/ciima/vol3/iss1/10/) Accessed 21 October 2026
+-   Roinn, A., Agus Óige, O., Maoilbhríde, S., Cliath, Á. and Rc96 (n.d.). Banning the use of and access to personal mobile phones by pupils during the school day. Available at: [Link](https://assets.gov.ie/static/documents/Circ0044_MobPhone_Ban_PrimarySchools_Final.pdf) Accessed 6 Nov. 2026.
+-   Rosenberg, H., Blondheim, M., & Sabag-Ben Porat, C. (2022). Mobile phones and the experience of time: New perspectives from a deprivation study of teenagers. Time & Society, 31(3), 366-391. Available at: [Link](https://doi.org/10.1177/0961463X221077492) Accessed October 2026
+-   Wolford, B. (2025) What is GDPR, the EU’s new data protection law?, GDPR.EU. Available at [Link](https://gdpr.eu/what-is-gdpr/) Accessed: November 2026.
+-   Wright, D., Finn, R., Gellert, R., Gutwirth, S., Schütz, P., Friedewald, M., Venier, S. and Mordini, E., 2014. Ethical dilemma scenarios and emerging technologies. Technological Forecasting and Social Change, 87, pp.325-336.

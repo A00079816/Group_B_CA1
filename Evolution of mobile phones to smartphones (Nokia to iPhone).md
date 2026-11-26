@@ -74,7 +74,11 @@ The growing use of mobile devices since the 1980's has brought about improved gl
 In the late 2000's, mobile devices have been used to organize and plan for social movements and protests. Mobile connectivity has allowed for the gathering of information and sharing to other users (Wong, 2024). This method of communication has allowed information to be shared amongst protesters in countries with restricted freedom of speech and censorship from the government (Wong, 2024). In China, studies show that connective action through digital technologies was a method used during 2018 China's #MeToo campaign against sexual violence and harassment (Zeng, 2020). Transcending in person protests with digital platforms.  
 
 
-# Second Viewpoint Analysis
+# Second Viewpoint Analysis: Evolution of mobile phones to smartphones (Nokia to iPhone) Buisness
+
+The buisness impacts of using Mobile Phones is that a new buisness was made, another product for people to consume.
+
+**The buisness impact:** A whole new market was made when phones became smart phones, it went from maunfacturers of technological devices to eventualy markets that are on the phone such as app eco systesms ad then apps designed to collect and sell data for a profit.
 
 # Ethical Reflection & Improvements
 ## Critical evaluation and solutions

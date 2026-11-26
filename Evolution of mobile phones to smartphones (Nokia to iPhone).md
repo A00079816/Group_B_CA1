@@ -73,19 +73,6 @@ The growing use of mobile devices since the 1980's has brought about improved gl
 
 In the late 2000's, mobile devices have been used to organize and plan for social movements and protests. Mobile connectivity has allowed for the gathering of information and sharing to other users (Wong, 2024). This method of communication has allowed information to be shared amongst protesters in countries with restricted freedom of speech and censorship from the government (Wong, 2024). In China, studies show that connective action through digital technologies was a method used during 2018 China's #MeToo campaign against sexual violence and harassment (Zeng, 2020). Transcending in person protests with digital platforms.  
 
-## Timeline of social changes from mobile devices ​ (1980–2009)
-
-The table below illustrates how technological milestones directly correlated with changes in social behavior:
-
-| Era | Technological Milestone | Social Impact |
-| :--- | :--- | :--- |
-| **1980s** | Early Mobile Phones (e.g., Nokia) | Communication was a luxury; phones were status symbols for elites. |
-| **1990s** | SMS & GSM Networks | Texting emerged as a youth culture phenomenon; privacy increased. |
-| **2000s** | Camera Phones & 3G | Visual sharing began; early mobile internet connected people globally. |
-| **2007-2009** | Smartphones (iPhone/Android) | The "Always-On" society; social media moved to pockets; constant connectivity. |
-
-## Global Perspectives
-The social impact varied by region. In developed nations, phones became extensions of identity. In developing nations, they often served as critical tools for community organization and accessing basic services, leapfrogging traditional infrastructure.
 
 - Second Viewpoint Analysis
 

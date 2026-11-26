@@ -129,4 +129,9 @@ References:
 -   Lamberg, J.A., et al. (2021). The curse of agility: The Nokia Corporation... 2003–2013. *Business History*.
 -   Nokia. (1996). *First GSM-based communicator product hits the market*. Press release.
 -   Steinbock, D. (2005). *The mobile revolution: The making of mobile services worldwide*. Kogan Page Publishers.
--   Yang, Y.J. (2022). The rising and fall of mobile phone enterprises: Patent-based competitive advantage analysis. *Contemporary Management Research*, 18(2), pp.133-163.
+-   Yang, Y.J. (2022). The rising and fall of mobile phone enterprises: Patent-based competitive advantage analysis. *Contemporary Management Research*, 18(2), pp.133 163.
+-   Sarwar, M. and Soomro, T.R. (2013). Impact of Smartphones on Society. *European Journal of Scientific Research*, 98(2), pp.216–226.
+-   Ataro, E., Madara, D.S. and Simiuy Sitati (2016). Design and testing of mobile phone detectors. Innovative Systems Design and Engineering, 7(9).
+-   Madianou, M. and Miller, D. (2011). Mobile phone parenting: Reconfiguring relationships between Filipina migrant mothers and their left-behind children. New Media & Society, 13(3), pp.457–470.
+-   Zeng, J. (2020). #MeToo as connective action: A study of the anti-sexual violence and anti-sexual harassment campaign on Chinese social media in 2018. Journalism Practice, 14(2), pp.171–190.
+-   Wong, F.H.C. (2024). Not all protests are created equal to be news: Does mobile digital connectivity level the playing field in the hybrid media system? The International Journal of Press/Politics, 31(1), pp.28–49. 

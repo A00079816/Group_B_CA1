@@ -108,7 +108,7 @@ Smartphones have improved our lives in vast ways. We can make calls and text fro
 The ability for mobile phones to show us our exact location using GPS has made traveling to place we haven't been to before easier and, has made trips to places you know more efficient by giving you the fastest routes while avoiding traffic. It could also be said that it has saved lives of hikers by showing their last know position if they got lost.
 Being able to take pictures instantly using a smartphone has made it easier to create memories with family and friends that will last a lifetime (if correctly backed up).
 
-# Conclusion:
+# Conclusion
 
 In conclusion, there have been many technological advancements over the years. 
 
@@ -117,7 +117,7 @@ such as how some people use them to photograph others in changing rooms and then
 
 As more advancements come in the future, we need to be wary of potential consequences and how they can be mitigated.
 
-References: 
+## References 
 
 -   BBC (2024). A history of mobile phones and smartphones. BBC Bitesize.
 -   Agar, J. (2013). *Constant touch: A global history of the mobile phone*. Icon Books Ltd.

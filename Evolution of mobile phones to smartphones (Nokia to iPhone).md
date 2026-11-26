@@ -119,4 +119,14 @@ As more advancements come in the future, we need to be wary of potential consequ
 
 References: 
 
-* **BBC (2024).** A history of mobile phones and smartphones. BBC Bitesize.
+-   BBC (2024). A history of mobile phones and smartphones. BBC Bitesize.
+-   Agar, J. (2013). *Constant touch: A global history of the mobile phone*. Icon Books Ltd.
+-   Apple Inc. (2007). *Apple Reinvents the Phone with iPhone*. Apple Newsroom.
+-   Bouwman, H., et al. (2014). How Nokia failed to nail the Smartphone market.
+-   Giachetti, C. and Marchi, G. (2010). Evolution of firms' product strategy... 1980–2009. *Business History*.
+-   Goggin, G. (2013). Adapting the mobile phone: The iPhone and its consumption. In *Cultural Adaptation* (pp. 125-138). Routledge.
+-   Han, Q. and Cho, D. (2016). Characterizing the technological evolution of smartphones. *ICEC Conference*.
+-   Lamberg, J.A., et al. (2021). The curse of agility: The Nokia Corporation... 2003–2013. *Business History*.
+-   Nokia. (1996). *First GSM-based communicator product hits the market*. Press release.
+-   Steinbock, D. (2005). *The mobile revolution: The making of mobile services worldwide*. Kogan Page Publishers.
+-   Yang, Y.J. (2022). The rising and fall of mobile phone enterprises: Patent-based competitive advantage analysis. *Contemporary Management Research*, 18(2), pp.133-163.

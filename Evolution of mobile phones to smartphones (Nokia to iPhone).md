@@ -56,7 +56,7 @@ This current era represents a fundamental pivot: computing is no longer about ac
 # First Viewpoint Analysis: Social Impact of Mobile Devices
 
 ## How Mobile Phones Changed Society (1980–2009)
-The introduction of smart devices has revolutionized the way people communicate with one another and has had a massive impact on society. This section discusses the evolution of mobile devices to smart devices from Nokia, and how it reshaped culture, education, and global communication.  
+The release of the Nokia 2010 in 1994 supported the use of SMS (Short Message Service), which revolutionized the way people communicate with one another. This allowed users to send short, formed messages to another mobile device user. The Nokia 2010 would become the first Nokia device to be able to send messages to another mobile phone number or divert calls to another number which would become a feat that reshaped telecommunication (alin.labau, 1994). With how compact the device was would stand to be the blueprint that began mobile device communication and culture.  
 
 ## The Impact of Mobile Devices in Society 
 
@@ -130,6 +130,7 @@ As more advancements come in the future, we need to be wary of potential consequ
 -   Nokia. (1996). *First GSM-based communicator product hits the market*. Press release.
 -   Steinbock, D. (2005). *The mobile revolution: The making of mobile services worldwide*. Kogan Page Publishers.
 -   Yang, Y.J. (2022). The rising and fall of mobile phone enterprises: Patent-based competitive advantage analysis. *Contemporary Management Research*, 18(2), pp.133 163.
+-   alin.labau (1994). Nokia 2010 | Nokia Museum. Archive.org.  
 -   Sarwar, M. and Soomro, T.R. (2013). Impact of Smartphones on Society. *European Journal of Scientific Research*, 98(2), pp.216–226.
 -   Ataro, E., Madara, D.S. and Simiuy Sitati (2016). Design and testing of mobile phone detectors. Innovative Systems Design and Engineering, 7(9).
 -   Madianou, M. and Miller, D. (2011). Mobile phone parenting: Reconfiguring relationships between Filipina migrant mothers and their left-behind children. New Media & Society, 13(3), pp.457–470.

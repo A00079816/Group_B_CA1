@@ -84,9 +84,7 @@ The business perspective of the evolution of phones to smartphones is how this c
 
 The Business viewpoint of the switch from mobile phones to smart phones such as what infrastructure and hardware was made and how that effected the current market of smart phones. When mobile phones started to emerge onto the market there were two main competitors for mobile phone devices, Nokia and Motorola. This has now changed as there are several larger companies within the smartphone space, Apple, Samsung, Google and Xiaomi. There are two different types of companies here, one which makes hardware and one which makes software with a revenue cut, Apple, Samsung and Xiaomi sell hardware primarily but google makes the operating system and main app store for both Samsung and Xiaomi and most Android devices. 
 
-Three of these companies make up for 50% of global smartphone and tablet sales worldwide,  
-
-There were three major types of companies that are relevant to the evolution from phones to smart phones. network services, terminals, and network infrastructure Garcia-Swartz, D. D and Campbell-Kelly, M. (2022). Cellular. 
+Three of these companies make up for 50% of global smartphone and tablet sales worldwide, there were three major types of companies that are relevant to the evolution from phones to smart phones. network services, terminals, and network infrastructure Garcia-Swartz, D. D and Campbell-Kelly, M. (2022). Cellular. 
 
  
 
@@ -96,7 +94,7 @@ Network Services are the standards that are used over the hardware of the networ
 
  
 
-‌ Terminals are the pysical device that is used, such as a phone, this word does also apply to desktop computers and other devices that have a terminal. Ther were a few major companies that made terminals in the begginings of mobile phones most notably Nokia  
+‌Terminals are the pysical device that is used, such as a phone, this word does also apply to desktop computers and other devices that have a terminal. Ther were a few major companies that made terminals in the begginings of mobile phones most notably Nokia  
 
  
 
@@ -120,15 +118,7 @@ Edmonds, R. (2013). 40 years have passed for mobile phones and Nokia dominates b
 Get sales numbers per section for each relevent company 
 
 **operational impact of employees using smart phones instead of phones** 
-When phones (land line) were first introduced to buisness it allowed for faster near instant vocal communication between two people, this allowed for  
-competition between businesses 
-how do smaller business flourished  
-risks and challenges 
-security and privacy concerns 
-dependeceny on this technology 
-
-**Introduction of phones to rural developing countries** 
-When phones were introduced to  
+When smartphones were first made, each manufacturer has their own operating system with limited functionality, this changed when apple made the first iPhone, apple made an Appstore that allowed users to download software to their phone for a selection of verified applications. This ecosystem 3nabled apple to take a cut of revenue that app developers made. Later on Google made android, an operating system that they managed for other phone manufacturers to use, they also had an app market place called “Play store”, google also took a %30 revenue cut from developers. Given that android was used by more phone manufacturers they got a higher amount of revenue than apple per device. 
 
 # Ethical Reflection & Improvements
 ## Critical evaluation and solutions

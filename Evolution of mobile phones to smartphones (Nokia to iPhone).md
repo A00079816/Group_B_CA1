@@ -118,6 +118,7 @@ When smartphones were first made, each manufacturer has their own operating syst
 ![Alt text](images/Screenshot_20261127_154205.png)
 This figure shows the global revenue sources for 2021, you can clearly see that both Google does gain of revenue from the search engine that they have pre-installed on most android devices. (Mobile ecosystems, 2022, p.20)
 
+![Alt text](images/Screenshot_20261127_154242.png)
 This is Apples revenue per year from 2011 to 2021 in Billion$ per year from 2011 till 2021. (Mobile ecosystems, 2022, p.25)
 
 This shows the increase in value of the company and that slow goring revenue of the services revenue which is primarily %30 cut from AppStore developer revenue. In summary the use of mobile technology has created several markets other than the sale of mobile hardware itself, it has also had a great impact on the global market as these devices became pieces of hardware that most people have access to. The use of mobile phones allowed for the better interconnectivity which included users finding out information faster such as services that they can hire and then pay for.

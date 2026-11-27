@@ -78,39 +78,19 @@ In the late 2000's, mobile devices have been used to organize and plan for socia
 
 # Second Viewpoint Analysis: Evolution of mobile phones to smartphones (Nokia to iPhone) Buisness
 
-The buisness impacts of using Mobile Phones is that a new buisness was made, another product for people to consume.
-
-**The buisness impact:** A whole new market was made when phones became smart phones, it went from maunfacturers of technological devices to eventualy markets that are on the phone such as app eco systesms ad then apps designed to collect and sell data for a profit.
-
-**Phone manufacturers and part sellers**
-There are several giants that make phones and phone parts such as apple and samusung, these two have a 
-
-**Mobile phone accessories**
-
-**Smart phone markets (online)**
-https://www.ansispublications.com/journals/jdbim/jdbim_pdf/2026/jdbim_volume_2_issue_3/JDBIM2026017.pdf
-
-**Business View Point Analysis** 
+## **Business View Point Analysis** 
 
 The business perspective of the evolution of phones to smartphones is how this change effected how business operate, the revenue generated and market positions. 
 
- 
+The Business viewpoint of the switch from mobile phones to smart phones such as what infrastructure and hardware was made and how that effected the current market of smart phones. When mobile phones started to emerge onto the market there were two main competitors for mobile phone devices, Nokia and Motorola. This has now changed as there are several larger companies within the smartphone space, Apple, Samsung, Google and Xiaomi. There are two different types of companies here, one which makes hardware and one which makes software with a revenue cut, Apple, Samsung and Xiaomi sell hardware primarily but google makes the operating system and main app store for both Samsung and Xiaomi and most Android devices. 
 
-The Business viewpoint of the switch from mobile phones to smart phones such as what infrastructure and hardware was made and how that effected the current market of smart phones. When mobile phones started to emerge onto the market there were two mein competitors, Nokia and Motarola, motarola made the  
-
- There are currently Three major smart phone companies, Samsung, Apple and Xiaomi. But  
-
- 
-
-These companies competed to create a tool for people to use, each company selling millions of devices to consumers and businesses. The direct effect of the switch was better communication between people all the time, email communication had allready existed and pagers were used in some contexts but nothing was as usefull and this not as puplar as teh mobile phone. 
-
- 
+Three of these companies make up for 50% of global smartphone and tablet sales worldwide,  
 
 There were three major types of companies that are relevant to the evolution from phones to smart phones. network services, terminals, and network infrastructure Garcia-Swartz, D. D and Campbell-Kelly, M. (2022). Cellular. 
 
  
 
-‌ Network infastuctire is hardware that carries the signals, such as the radio towers. Thwas was geographicaly local compatitino not international compatition as companies had to compete with other companies that were in the vacinity of one another such as AT&T and Motorola competing with one another in the United states of America. Nokia had little compatiton within Finland and Ericsson from finland. 
+‌Network infastuctire is hardware that carries the signals, such as the radio towers. Thwas was geographicaly local compatitino not international compatition as companies had to compete with other companies that were in the vacinity of one another such as AT&T and Motorola competing with one another in the United states of America. Nokia had little compatiton within Finland and Ericsson from finland. 
 
 Network Services are the standards that are used over the hardware of the network infastucture, this provides a service of communication. This was once again a geographicaly local competiton as companies would compete to how had a better services on the netowrk provided by the network infastructure companies. In the US there were several compaines that had controll over local areas such as citys. The United states of Americas Govornment made a report and in this report it stated that the cellular network service industry has only 92,999 subscribers in 1984 to about 7.6 million subscribers in 1991. Garcia-Swartz, D.D. and Campbell-Kelly, M. (2022). Cellular: An Economic and Business History of the International Mobile-Phone Industry. The MIT Press. 
 

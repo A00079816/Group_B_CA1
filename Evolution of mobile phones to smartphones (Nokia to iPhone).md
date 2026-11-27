@@ -115,6 +115,7 @@ Markets within Phones, Operating system, Browers, and App Markets
 
 When smartphones were first made, each manufacturer has their own operating system with limited functionality, this changed when apple made the first iPhone, apple made an Appstore that allowed users to download software to their phone for a selection of verified applications. This ecosystem enabled apple to take a %30 cut of revenue that app developers made. Later on, Google bought, and let other phone manufacturers use it, they also had an app marketplace that was pre-installed called “The Play store”, Google took a %30 revenue cut from developers from this platform. Given that android was used by more phone manufacturers they got a higher amount of revenue than apple per device. (Mobile ecosystems, 2022, p.27)
 
+![Alt text](images/Screenshot_20261127_154205.png)
 This figure shows the global revenue sources for 2021, you can clearly see that both Google does gain of revenue from the search engine that they have pre-installed on most android devices. (Mobile ecosystems, 2022, p.20)
 
 This is Apples revenue per year from 2011 to 2021 in Billion$ per year from 2011 till 2021. (Mobile ecosystems, 2022, p.25)

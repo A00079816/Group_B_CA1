@@ -102,7 +102,7 @@ Network Services are the standards that are used over the hardware of the networ
 
  
 
-**financial impact of the evolution** 
+### **Financial impact of the evolution** 
 
 The first cellular network was first made in the Chicago network, for only a few thousand participants as it was a trial run. After a few years other countries started to make their own cellular networks in total only around 2.5 million in the 1980’s. From the 1980s onwards countries started making country wide networks with different standards using different uses, from here different companies made their mobile phones such as Nokia’s Mobira Cityman (1987) for the Global Systems for Mobile communications on the 2GigaHrtz network. Garcia-Swartz, D.D. and Campbell-Kelly, M. (2022). Cellular: An Economic and Business History of the International Mobile-Phone Industry. The MIT Press. 
 
@@ -117,7 +117,7 @@ Edmonds, R. (2013). 40 years have passed for mobile phones and Nokia dominates b
 ‌in the  
 Get sales numbers per section for each relevent company 
 
-**operational impact of employees using smart phones instead of phones** 
+### **Operational impact of employees using smart phones instead of phones** 
 When smartphones were first made, each manufacturer has their own operating system with limited functionality, this changed when apple made the first iPhone, apple made an Appstore that allowed users to download software to their phone for a selection of verified applications. This ecosystem 3nabled apple to take a cut of revenue that app developers made. Later on Google made android, an operating system that they managed for other phone manufacturers to use, they also had an app market place called “Play store”, google also took a %30 revenue cut from developers. Given that android was used by more phone manufacturers they got a higher amount of revenue than apple per device. 
 
 # Ethical Reflection & Improvements
